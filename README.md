@@ -25,23 +25,21 @@ Loan rejected? – Not considered
 
 ## Conclusions
 - Small business with high interest rate are defaulting at 100%. LC should avoid doing this and do not give loans to small business.
-- Small businesses and other categories are defaulting highest at all the DTI - low, medium, and high.
+- Small businesses and educational categories are defaulting highest at the DTI - high. At medium DTI, small business and renewable energy is defaulting the most.
 - We discovered that persons with a medium yearly income are more likely to fail on their loans after doing a segmented univariate study. People with a median annual income are more likely to request for larger loans, which increases the risk of their defaulting. LC should put a halt to these loans.
-- Small business loans with a large loan amount and wedding with a low loan amount must not be granted since more than 40% of them default.
+- Small business loans with a large loan amount and renewable energy with a low loan amount must not be granted since more than 30% and 25% of them default, respectively. 
+
 
 
 ## Technologies Used
 Python Libraries used -
-pandas 
-numpy 
-matplotlib.pyplot
-seaborn
+* pandas 
+* numpy 
+* matplotlib.pyplot
+* seaborn
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+NA
 
 
 ## Contact
